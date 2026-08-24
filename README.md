@@ -88,5 +88,5 @@ Region Targets: 144 regional targets
 - Production deployment
   
 ## Workflow Preview
-https://github.com/JoyDike/Automated-Sales-vs-Target-Tracking-Pipeline/blob/main/Sales%20vs%20Target%20pipeline_screenshot.png.png?raw=true
+![Sales Target Pipeline](pipeline_screenshot.png)
 
